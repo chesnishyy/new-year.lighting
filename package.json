@@ -1,5 +1,5 @@
 {
-  "name": "simple_landingpage",
+  "name": "new-year.lighting",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://jithinb68@bitbucket.org/jithinb68/simple_landingpage.git"
+    "url": "git@github.com:chesnishyy/new-year.lighting.git"
   },
   "author": "",
   "license": "ISC",
